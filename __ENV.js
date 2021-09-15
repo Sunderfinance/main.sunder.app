@@ -1,0 +1,1 @@
+window.__ENV = {"REACT_APP_CHAIN_Id":"42"};
